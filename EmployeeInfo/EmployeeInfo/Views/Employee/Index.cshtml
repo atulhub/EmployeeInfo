@@ -1,0 +1,109 @@
+﻿
+@{
+    ViewBag.Title = "Employee Information";
+}
+
+<h2>Employee Information</h2>
+
+<table id="empTable" class="display" width="100%">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Marital Status</th>
+            <th>Salary</th>
+            <th>Location</th>
+            <th></th>
+        </tr>
+    </thead>
+</table>
+</br>
+<button id="addNew" onclick="PopupForm('@Url.Action("AddEmp","Employee")')" class="ui-button">Add Employee</button>
+<link href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+@section scripts{
+    <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+    <script>
+        var popup, dataTable;
+        $(document).ready(function () {
+           dataTable= $("#empTable").DataTable({
+                "ajax": {
+                    "url": "/Employee/GetEmpData",
+                    "type": "Get",
+                    "datatype":"json"
+                },
+                "columns": [
+                    { "data": "Name" },
+                    { "data": "Age" },
+                    { "data": "Marital_Status" },
+                    { "data": "Salary" },
+                    { "data": "Location" },
+                    {
+                        "data": "ID", "render": function (data) {
+                            return "<button id='addNew'  class='ui-button' onclick=DeleteEmp("+data+")>Delete</button>"
+                        }
+                    }
+                ]
+            });
+        });
+
+        function PopupForm(url)
+        {
+            var formdiv = $("<div/>");
+            $.get(url).done(function (responce) {
+                formdiv.html(responce);
+                    popup = formdiv.dialog({
+                    autoOpen: true,
+                    title:"Enter Employee Information",
+                    height: 350,
+                    width: 500,
+                    resizable: false,
+                    close: function () {
+                        popup.dialog('destroy').remove();
+                    }
+                });
+            });
+
+        }
+        function SubmitForm(form) {
+            $.validator.unobtrusive.parse(form);
+            if ($(form).valid()) {
+                $.ajax({
+                    type: 'POST',
+                    url: form.action,
+                    data: $(form).serialize(),
+                    success: function (data) {
+                        if (data.success) {
+                            popup.dialog('close');
+                            alert(data.message);
+                            dataTable.ajax.reload();
+                        }
+                    }
+                });
+            }
+            return false;
+        }
+
+        function DeleteEmp(id)
+        {
+            if(confirm("Do you realy want to delete the record ?"))
+            {
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("DeleteEmployee","Employee")/' + id,
+                    success:function(data)
+                    {
+                        if(data.success)
+                        {
+                            alert(data.message);
+                            dataTable.ajax.reload();
+                        }
+                    }
+                });
+            }
+        }
+    </script>
+
+    }
+

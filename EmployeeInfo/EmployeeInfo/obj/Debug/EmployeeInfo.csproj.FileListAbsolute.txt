@@ -1,0 +1,74 @@
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\csc.exe
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\vbc.exe
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\VBCSCompiler.exe
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\EmployeeInfo.dll.config
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\EmployeeInfo.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\EmployeeInfo.pdb
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Helpers.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Mvc.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Razor.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.Deployment.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.Razor.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Razor.xml
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.xml
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.Deployment.xml
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.Razor.xml
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Helpers.xml
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\System.Web.Mvc.xml
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.pdb
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\EntityFramework.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\EntityFramework.SqlServer.dll
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\EntityFramework.xml
+c:\users\dev\documents\visual studio 2015\Projects\EmployeeInfo\EmployeeInfo\bin\EntityFramework.SqlServer.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\csc.exe
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\System.Collections.Immutable.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\System.Reflection.Metadata.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\vbc.exe
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\VBCSCompiler.exe
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\roslyn\VBCSCompiler.exe.config
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\EmployeeInfo.dll.config
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\EmployeeInfo.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\EmployeeInfo.pdb
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\EntityFramework.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\EntityFramework.SqlServer.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\Microsoft.Web.Infrastructure.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Helpers.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Mvc.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Razor.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.Deployment.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.Razor.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\EntityFramework.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\EntityFramework.SqlServer.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Razor.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.Deployment.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Webpages.Razor.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Helpers.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\bin\System.Web.Mvc.xml
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csprojResolveAssemblyReference.cache
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.dll
+C:\workspace\Git\EmployeeInfo\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.pdb
